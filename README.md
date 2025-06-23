@@ -26,7 +26,7 @@ RecruitFlow is an intelligent, real-time interview simulation platform built usi
 | Real-Time     | LiveKit, WebRTC                      |
 | Backend       | Supabase (auth & room logic), Flask  |
 | Logging       | JSON, File-based logging             |
-| Infra         | Streamlit (optional UI), GitHub      |
+| Infra         | Livekit Clouse    |
 
 ---
 
